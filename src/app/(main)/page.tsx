@@ -8,7 +8,7 @@ import { getAllCards } from "~/lib/rice";
 import { shuffle } from "~/lib/utils";
 
 export const metadata: ReturnType<typeof getSEOTags> = getSEOTags({
-  title: "~/.config",
+  title: "awesome-dotfiles - Curated List of Unix Rices",
 });
 
 const HomePage = () => {
