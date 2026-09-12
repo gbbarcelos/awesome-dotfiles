@@ -1,0 +1,25 @@
+[
+  {
+    "title": "hyprland rice with waybar and fuzzel",
+    "author": "pandey-ps",
+    "date": "2026-09-12",
+    "preview_image": "https://raw.githubusercontent.com/pandey-ps/dotfiles/assets/launcher.png",
+    "gallery_images": [
+      "https://raw.githubusercontent.com/pandey-ps/dotfiles/assets/fastfetch.png",
+      "https://raw.githubusercontent.com/pandey-ps/dotfiles/assets/lock.png"
+    ],
+    "github_url": "https://github.com/pandey-ps/dotfiles",
+    "wm": "hyprland",
+    "distro": "arch linux",
+    "utils_used": [
+      "Waybar",
+      "Alacritty",
+      "Fuzzel",
+      "Neovim",
+      "mako",
+      "Hyprpaper",
+      "Starship",
+      "btop"
+    ]
+  }
+]
