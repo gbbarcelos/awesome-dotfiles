@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Declarative NixOS graphical desktop with Hyprland and QuickShell",
+    "author": "Realdhiru",
+    "date": "2026-09-20",
+    "preview_image": "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/wallpaper_carousel.png",
+    "gallery_images": [
+      "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/radial_connectivity.png",
+      "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/media_equalizer.png",
+      "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/calendar_weather.png",
+      "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/clipboard_manager.png",
+      "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/app_launcher.png",
+      "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/focus_timer.png",
+      "https://raw.githubusercontent.com/Realdhiru/nix/main/docs/assets/screenshots/file_search.png"
+    ],
+    "github_url": "https://github.com/Realdhiru/nix",
+    "wm": "hyprland",
+    "distro": "NixOS",
+    "colorscheme": "material you",
+    "utils_used": [
+      "QuickShell",
+      "Fuzzel",
+      "WezTerm",
+      "Zsh",
+      "Starship",
+      "Matugen",
+      "Hyprlock",
+      "MPV",
+      "PipeWire",
+      "EasyEffects",
+      "Neovim"
+    ]
+  }
+]
